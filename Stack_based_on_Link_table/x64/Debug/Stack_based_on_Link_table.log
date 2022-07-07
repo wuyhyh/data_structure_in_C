@@ -1,0 +1,4 @@
+﻿  main.c
+C:\SourseCode\MainDS\Stack_based_on_Link_table\main.c(41,14): warning C4047: “return”:“elemtype”与“void *”的间接级别不同
+C:\SourseCode\MainDS\Stack_based_on_Link_table\main.c(19): warning C4716: “create_Stack”: 必须返回一个值
+  Stack_based_on_Link_table.vcxproj -> C:\SourseCode\MainDS\Stack_based_on_Link_table\x64\Debug\Stack_based_on_Link_table.exe

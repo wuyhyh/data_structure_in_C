@@ -1,0 +1,3 @@
+﻿  main.c
+C:\SourseCode\MainDS\Queue_based_on_link_table\main.c(53): warning C4715: “add_Queue”: 不是所有的控件路径都返回值
+  Queue_based_on_link_table.vcxproj -> C:\SourseCode\MainDS\Queue_based_on_link_table\x64\Debug\Queue_based_on_link_table.exe
